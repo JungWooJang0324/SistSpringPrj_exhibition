@@ -2,7 +2,10 @@
 * 사용 언어: Spring, AWS, JSP, Oracle DB, Jquery..
 * 제작기간: (2022.05.20~)
 * 링크: http://exhibition.sist.co.kr
+* PPT: https://github.com/JungWooJang0324/SistSpringPrj_exhibition/files/8940809/exhibition_final_3.pdf
+
 <br/>
+
 
 # 개요
 오롯이 미술관의 전시 일정을 알려주고, 
