@@ -25,8 +25,8 @@
 * 현재 진행 전시 리스트 
 * 지역별 전시 진행상황 
 -------------------
-
 <br/>
+
 ### 로그인, 회원 가입
 <img src="https://user-images.githubusercontent.com/93374409/174593749-dfaa069b-67f4-45e7-a31b-42a2b040396a.png"/>
 <img src= "https://user-images.githubusercontent.com/93374409/174594167-fed48dfb-251c-467c-83ab-6102c71d472f.PNG"/>
@@ -64,6 +64,7 @@
 # 관리자 페이지 
 -------------------
 <br/>
+
 ### 로그인
 <img src="https://user-images.githubusercontent.com/93374409/163676765-9d10f7df-4c16-4e24-bc09-054ce2aad4ef.PNG" width="300" height=auto/>
 
@@ -74,6 +75,7 @@
 
 -------------------
 <br/>
+
 ### DashBoard
 
 <img src="https://user-images.githubusercontent.com/93374409/174605919-b50b8086-1721-491b-a0d0-9c8f8b31901e.jpg"/>
@@ -81,6 +83,7 @@
 * 전시일정, 예약건 등
 -------------------
 <br/>
+
 ### 회원관리, 예약관리, 게시판 관리
 <img src="https://user-images.githubusercontent.com/93374409/174604460-d9ced6e3-47e7-4f95-987e-2d7d41aa0e25.jpg"/>
 * DB호출 후 회원, 예약, 게시판 관리 가능
@@ -93,6 +96,7 @@
 * 수정 가능
 -------------------
 <br/>
+
 ### 이메일 보내기
 <img src="https://user-images.githubusercontent.com/93374409/174604970-015db130-ddae-4e39-94fb-742ec4fd6f57.jpg"/>
 
@@ -101,5 +105,6 @@
 
 ----------------
 <br/><br/>
+
 ## AWS를 통한 서버 올리기
 <img src="https://user-images.githubusercontent.com/93374409/174606585-d102d63b-891d-400c-96ea-6d03e990d2b5.png"/>
